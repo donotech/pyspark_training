@@ -37,6 +37,7 @@ def product_sales(sales_df: DataFrame, product_df: DataFrame):
 
 
 # df = read_csv(sales1)
+#read_csv("adls://<container>@<storage>.dfs.windows.microsoft.net/<folder>/<file>")
 # df = add_store_id(df, 1)
 # df_sales = add_discount_column(df)
 # df_product = read_csv(product_meta)
